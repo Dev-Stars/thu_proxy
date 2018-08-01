@@ -1,0 +1,26 @@
+/*#Maps {
+ display:flex;
+ flex-direction: column;
+  
+}*/
+.Maps_Images_Reviews{
+  display: flex;
+  flex-direction: row;
+}
+
+.Maps_Images{
+  display: flex;
+  flex-direction: column;
+}
+
+#Images{
+
+}
+
+#Reviews{
+  
+}
+
+#appointment{
+  
+}
